@@ -283,11 +283,6 @@ The [Activity log](../azure-monitor/essentials/activity-log.md) is a type of pla
 
 For a list of the tables used by Azure Monitor Logs and queryable by Log Analytics, see [Monitoring Load Balancer data reference](monitor-load-balancer-reference.md#azure-monitor-logs-tables)  
 
-### Sample Kusto queries
-
-> [!NOTE]
-> There is currently an issue with Kusto queries that prevents data from being retrieved from load balancer logs.
-
 
 ## Alerts
 
